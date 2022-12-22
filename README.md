@@ -109,5 +109,5 @@ This one requires a bit more explaning. The below steps will go through setting 
 ***TIP:** Don't forget to add the prefab to the Ignore Transform list of any VRC Phys Bone component affecting the parent*
 
 ## Credits
-- Lyra (https://twitter.com/ThatPunkAngel) for hands om testing the functionality of these prefabs
+- Lyra (https://twitter.com/ThatPunkAngel) for hands on testing the functionality of these prefabs
 - Yuwukii (https://twitter.com/YukiLewdie) for testing these instructions
