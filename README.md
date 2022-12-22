@@ -20,13 +20,15 @@ This package contains everything you need in order to setup Avatar Dynamics for 
 
 ## How it works
 These prefabs are to simplify the setup of the Avatar Dynamics for VRChat so you can more easily rig up your model to support haptic feedback using OSC. Putting these prefabs on your model and following the instructions below will expose the following parameters for the GoodVibes client:
-- GoodVibes/Booba		-> Float
-- GoodVibes/Orifice		-> Float
-- GoodVibes/Penetrator	-> Float
-- GoodVibes/Spanked		-> Float
-- GoodVibes/SpankedBool	-> Bool
-- GoodVibes/Smacked		-> Float
-- GoodVibes/SmackedBool	-> Bool
+Prefab			| DataType	
+------------------------|---------------
+GoodVibes/Booba		| Float		
+GoodVibes/Orifice	| Float		
+GoodVibes/Penetrator	| Float		
+GoodVibes/Spanked	| Float		
+GoodVibes/SpankedBool	| Bool		
+GoodVibes/Smacked	| Float		
+GoodVibes/SmackedBool	| Bool		
 
 These parameters been pre-configured and will be triggered when you are interacting with other players on the areas where you place these prefabs. The float parameters are meant to control the strength value of the Lovense toys and the bool parameters are meant to control actions on the PiShock.
 
