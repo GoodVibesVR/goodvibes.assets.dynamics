@@ -32,11 +32,13 @@ GoodVibes/SmackedBool	| Bool
 These parameters been pre-configured and will be triggered when you are interacting with other players on the areas where you place these prefabs. The float parameters are meant to control the strength value of the Lovense toys and the bool parameters are meant to control actions on the PiShock.
 
 ## Help and support
-Are you having issues? 
-Want to support or contribute the project? 
-Want to hang out? 
+Are you having issues?  
+Want to support or contribute the project?  
+Want to hang out?  
 
 Please head over to our [Discord](https://discord.gg/R2tTCB7MNC).
+
+[A video tutorial can be found here](https://youtu.be/UuDKZ447itM)
 
 ## How to set it up
 The README.txt contains all information on how to setup the prefabs in this package if you happen to lose this repository.
